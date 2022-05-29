@@ -1,2 +1,2 @@
 # Codechef
-Codechef problems
+Codechef problems solved in C/C++.
